@@ -1,5 +1,7 @@
 # Frontend Mentor - Product preview card component CHALLENGE
 
+Challenge from Frontend Mentor - This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects.
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 
@@ -22,10 +24,6 @@
 ## Overview
 
 ### The challenge
-
-Your challenge is to build out this landing page from the designs provided in the starter code.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 Your users should be able to:
 
