@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component
+# Frontend Mentor - Product preview card component CHALLENGE
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
@@ -48,8 +48,8 @@ Here's my screenshot, button hover is not included on the screenshots but part o
 ### Links
 
 
-- Solution URL: 
-- Live Site URL: 
+- Solution/Code: Please check index.html and styles.css files above.
+- Live Site URL: https://fredvillan.github.io/frontend-mentor-Huddle-landing-page/
 
 ## My process
 
