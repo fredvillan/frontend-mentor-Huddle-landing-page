@@ -47,6 +47,7 @@ Here's my screenshot, button hover is not included on the screenshots but part o
 
 
 - Solution/Code: Please check index.html and styles.css files above.
+- Frontend Solution URL: https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-fm9mQn8fNe
 - Live Site URL: https://fredvillan.github.io/frontend-mentor-Huddle-landing-page/
 
 ## My process
