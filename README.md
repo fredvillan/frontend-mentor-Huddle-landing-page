@@ -32,23 +32,24 @@ Your users should be able to:
     View the optimal layout for the page depending on their device's screen size
     See hover states for all interactive elements on the page
 
-
-![desktop-design](designs/desktop-preview.jpg)
-![active-states](https://user-images.githubusercontent.com/106635525/177808462-5fb57443-cbfd-4b20-85fb-432edaddc37a.jpg)![desktop-preview](https://user-images.githubusercontent.com/106635525/177808479-8179ba44-4dc4-4a7a-a159-cb11f349a25f.jpg)
-![mobile-design](https://user-images.githubusercontent.com/106635525/177808482-7d46449b-f7b0-4558-937c-731107ba2c6a.jpg)
-
+![desktop-preview](https://user-images.githubusercontent.com/106635525/180039735-91efa2be-ab46-4021-b400-3e276864c048.jpg)
+![mobile-design](https://user-images.githubusercontent.com/106635525/180039779-5b0e6f9f-2660-462d-840a-270cead8ff96.jpg)
+![active-states](https://user-images.githubusercontent.com/106635525/180039790-b1c79fb7-35ba-4c82-bb7d-f9f9690160fb.jpg)
 
 
-### Screenshot(Here's my screenshot, Add-to-Cart button hover is not included on the screenshots but part of my code/feature)
+### Screenshot
 
-![Desktop-iPad-Tablet](https://user-images.githubusercontent.com/106635525/177808638-566f7407-d859-44c1-8741-77898c92cc2e.JPG)
-![iPhone11 Pro](https://user-images.githubusercontent.com/106635525/177808648-d2efca96-a33a-4748-87d7-ed87f5ef2cb8.JPG)
+Here's my screenshot, button hover is not included on the screenshots but part of my code/feature and you can check the live site instead to test. Thanks :)
+
+![desktop-1440px](https://user-images.githubusercontent.com/106635525/180039871-e754090a-87b7-4048-847d-059f031334c8.png)
+![mobile-375px](https://user-images.githubusercontent.com/106635525/180039867-94946976-aa00-44a8-80de-6d915877e4bb.png)
+
 
 ### Links
 
 
-- Solution URL: https://github.com/fredvillan/product-preview-card/blob/main/index.html
-- Live Site URL: https://fredvillan.github.io/Frontend-Menter-product-preview-card/
+- Solution URL: 
+- Live Site URL: 
 
 ## My process
 
@@ -79,4 +80,4 @@ I am still at the beginning stage and will learn more as I try different challen
 
 ## Acknowledgments
 
-I wanted to thank the posts I saw solutions regarding this, Google and Frontend Mentor for the challenge.
+I wanted to thank Google and articles/blog posts to find solutions of problems I encountered. Also, the Frontend Mentor for this challenge.
